@@ -18,7 +18,7 @@
 
   **PLEASE FORK MY REPO AND GIVE A STAR FOR COURAGE**
 
-  **MUNGAI WISHES TO THANKS YOU'LL FOR YOUR SUPPORT*
+  **OUTWEST WISHES TO THANKS YOU'LL FOR YOUR SUPPORT*
 
  
 ## Deployment Methods![outwest md bug bot](https://github.com/user-attachments/assets/1dcd1876-3710-4ad8-8a2c-97f7d6df26ba)  
@@ -62,12 +62,12 @@ Outwest bot one of the best bots in universe
 
 **Outwest_bot FOREVER**
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Red+Ops+One&size=30&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS TO +YOBIH-BOT;MULTI+DEVICE+WHATSAPP+BOT;THANKS+FOR+CHOOSING+ME;GOD+BLESS+MUNGAI" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Red+Ops+One&size=30&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS TO +YOBIH-BOT;MULTI+DEVICE+WHATSAPP+BOT;THANKS+FOR+CHOOSING+ME;GOD+BLESS+OUTWEST" alt="Typing SVG" /></a>
   </p>
 
 
 ### CONTRIBUTIONS 
--Contributions to YOBIH_BUG_BOT are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request!
+-Contributions to OUTWEST_BUG_BOT are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request!
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ***
@@ -80,9 +80,7 @@ Outwest bot one of the best bots in universe
   </a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-***
-* [✅ Join my official Channel ⚡](https://whatsapp.com/channel/0029Vajp1HY4o7qSc0kE9o1g)
-**HOW TO DEPLOY YOBIH_BOT**
+**HOW TO DEPLOY OUTWEST_BOT**
 
 1.Fork the repository first and give a star
 
