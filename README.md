@@ -75,7 +75,7 @@ Outwest bot one of the best bots in universe
 ### DEVELOPER:
 **GET In Touch with The Owner**
 
-- <a href="https://wa.me/254743436105" target="_blank">
+- <a href="https://wa.me/255613555647" target="_blank">
     <img alt="CLICK HERE" src="https://img.shields.io/badge/ On WhatsApp  -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
