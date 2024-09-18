@@ -1,15 +1,15 @@
-# Yobih_BUG-BOT
+# OUTWEST BUG BOT
 
-[![Yobih bot_MD](https://readme-typing-svg.demolab.com?font=Anton&size=24&pause=676&color=1FC40A&background=F7F2F20A&align=center&random=false&width=800&lines=Hello+Everyone%F0%9F%91%8B!;I+am+Yobih-MD+Bot;I+am+Programmed+by+Mungai+Yobih;Mungai+Yobih+is+a+Self+Learned+Fronted+Developer;He+is+from+East+Africa-Kenya;Mungai+Loves+You+All)](https://github.com/254100934193/Yobih_Bot-MD)
+[![Outwest bot_MD](https://readme-typing-svg.demolab.com?font=Anton&size=24&pause=676&color=1FC40A&background=F7F2F20A&align=center&random=false&width=800&lines=Hello+Everyone%F0%9F%91%8B!;I+am+Yobih-MD+Bot;I+am+Programmed+by+Mungai+Yobih;Mungai+Yobih+is+a+Self+Learned+Fronted+Developer;He+is+from+East+Africa-Kenya;Mungai+Loves+You+All)](https://github.com/254100934193/Yobih_Bot-MD)
 
-<h1 align="center"> YOBIH_BUG_BOT 𝐌𝐔𝐋𝐓𝐈 𝐃𝐄𝐕𝐈𝐂𝐄  </h1>
+<h1 align="center"> OUTWEST_BUG_BOT 𝐌𝐔𝐋𝐓𝐈 𝐃𝐄𝐕𝐈𝐂𝐄  </h1>
 <p align="center">  
 
  
  
 ***
   
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Green+Ops+One&size=47&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING +YOBIH-BOT;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+MUNGAI+YOBIH;RELEASED+15.8.2024" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Green+Ops+One&size=47&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING +OUTWEST-BOT;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+OUTWEST;RELEASED+15.8.2024" alt="Typing SVG" /></a>
   </p>
 
 ![CASSERHODES](https://github.com/user-attachments/assets/92df658e-96ce-4605-b960-1109153f572e)
@@ -21,7 +21,7 @@
   **MUNGAI WISHES TO THANKS YOU'LL FOR YOUR SUPPORT*
 
  
-## Deployment Methods![yobih md bug bot](https://github.com/user-attachments/assets/1dcd1876-3710-4ad8-8a2c-97f7d6df26ba)  
+## Deployment Methods![outwest md bug bot](https://github.com/user-attachments/assets/1dcd1876-3710-4ad8-8a2c-97f7d6df26ba)  
 
 
 ---
@@ -56,11 +56,11 @@
 - Star ⭐ repo if you like this bot.
 
 
-Yobih bot one of the best bots in universe
+Outwest bot one of the best bots in universe
 
 **SURVIVING IS WINNING FRANKLING,,,EVERYTHING ELSE IS BULL SH**T**
 
-**Yobih_bot FOREVER**
+**Outwest_bot FOREVER**
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Red+Ops+One&size=30&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS TO +YOBIH-BOT;MULTI+DEVICE+WHATSAPP+BOT;THANKS+FOR+CHOOSING+ME;GOD+BLESS+MUNGAI" alt="Typing SVG" /></a>
   </p>
@@ -92,11 +92,11 @@ Yobih bot one of the best bots in universe
 
 
 
-**BOOM YOU'RE CONNECTED TO YOBIH_BOT MD**
+**BOOM YOU'RE CONNECTED TO OUTWEST_BOT MD**
 
 
 
-[![YOBIH BOT_MD](https://readme-typing-svg.demolab.com?font=Anton&size=25&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=340&lines=Have+a%F0%9F%91%8B!+Day;goodluck+on+your+deployment;programmed+by+Mungai+Yobih🥰)]
+[![OUTWEST BOT_MD](https://readme-typing-svg.demolab.com?font=Anton&size=25&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=340&lines=Have+a%F0%9F%91%8B!+Day;goodluck+on+your+deployment;programmed+by+Mungai+Yobih🥰)]
 
   
 
